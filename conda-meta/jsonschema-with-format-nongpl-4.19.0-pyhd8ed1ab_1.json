@@ -1,0 +1,43 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "fqdn",
+    "idna",
+    "isoduration",
+    "jsonpointer >1.13",
+    "jsonschema >=4.19.0,<4.19.1.0a0",
+    "python",
+    "rfc3339-validator",
+    "rfc3986-validator >0.1.0",
+    "uri-template",
+    "webcolors >=1.11"
+  ],
+  "extracted_package_dir": "/Users/yrizvi/miniconda3/pkgs/jsonschema-with-format-nongpl-4.19.0-pyhd8ed1ab_1",
+  "files": [],
+  "fn": "jsonschema-with-format-nongpl-4.19.0-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/yrizvi/miniconda3/pkgs/jsonschema-with-format-nongpl-4.19.0-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "d273b30bcf4db0ef6b1195b3b61b3d68",
+  "name": "jsonschema-with-format-nongpl",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/yrizvi/miniconda3/pkgs/jsonschema-with-format-nongpl-4.19.0-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "fae13283e5c4b1e639b76348e3d9441bde21685c8a8c89f6d3f364e524ed5029",
+  "size": 7325,
+  "subdir": "noarch",
+  "timestamp": 1691761541918,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/jsonschema-with-format-nongpl-4.19.0-pyhd8ed1ab_1.conda",
+  "version": "4.19.0"
+}

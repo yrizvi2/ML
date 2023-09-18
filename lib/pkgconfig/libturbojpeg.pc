@@ -1,0 +1,10 @@
+prefix=/Users/yrizvi/miniconda3/envs/assignment-env
+exec_prefix=/Users/yrizvi/miniconda3/envs/assignment-env
+libdir=/Users/yrizvi/miniconda3/envs/assignment-env/lib
+includedir=/Users/yrizvi/miniconda3/envs/assignment-env/include
+
+Name: libturbojpeg
+Description: A SIMD-accelerated JPEG codec that provides the TurboJPEG API
+Version: 2.1.5.1
+Libs: -L${libdir} -lturbojpeg
+Cflags: -I${includedir}

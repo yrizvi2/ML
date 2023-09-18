@@ -1,0 +1,66 @@
+{
+  "build": "h0dc2134_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "libbrotlicommon 1.1.0 h0dc2134_0"
+  ],
+  "extracted_package_dir": "/Users/yrizvi/miniconda3/pkgs/libbrotlienc-1.1.0-h0dc2134_0",
+  "files": [
+    "lib/libbrotlienc.1.1.0.dylib",
+    "lib/libbrotlienc.1.dylib",
+    "lib/libbrotlienc.dylib",
+    "lib/pkgconfig/libbrotlienc.pc"
+  ],
+  "fn": "libbrotlienc-1.1.0-h0dc2134_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/yrizvi/miniconda3/pkgs/libbrotlienc-1.1.0-h0dc2134_0",
+    "type": 1
+  },
+  "md5": "f95dd7223f586874ace2320d9fcd89bf",
+  "name": "libbrotlienc",
+  "package_tarball_full_path": "/Users/yrizvi/miniconda3/pkgs/libbrotlienc-1.1.0-h0dc2134_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libbrotlienc.1.1.0.dylib",
+        "path_type": "hardlink",
+        "sha256": "333a44eb0f160e6e81a130162f0c3dc421e6798864d9b4342eb2368e3eacb564",
+        "sha256_in_prefix": "333a44eb0f160e6e81a130162f0c3dc421e6798864d9b4342eb2368e3eacb564",
+        "size_in_bytes": 759280
+      },
+      {
+        "_path": "lib/libbrotlienc.1.dylib",
+        "path_type": "softlink",
+        "sha256": "333a44eb0f160e6e81a130162f0c3dc421e6798864d9b4342eb2368e3eacb564",
+        "size_in_bytes": 759280
+      },
+      {
+        "_path": "lib/libbrotlienc.dylib",
+        "path_type": "softlink",
+        "sha256": "333a44eb0f160e6e81a130162f0c3dc421e6798864d9b4342eb2368e3eacb564",
+        "size_in_bytes": 759280
+      },
+      {
+        "_path": "lib/pkgconfig/libbrotlienc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/brotli-split_1693583678882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "ce82dda96c2e69c53e76eaa68b80c9b619a76c8a9488fa3ca292d312bc9ecee1",
+        "sha256_in_prefix": "a5798b65f897628c5a4edeae30daf3697d6356f3d2481d36cd24471cd984a3d2",
+        "size_in_bytes": 787
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1ba09ffa03cc3ec6718b8d7083d11f151cabe4a4476f93481580b402b624f363",
+  "size": 298832,
+  "subdir": "osx-64",
+  "timestamp": 1693584210776,
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/libbrotlienc-1.1.0-h0dc2134_0.conda",
+  "version": "1.1.0"
+}
